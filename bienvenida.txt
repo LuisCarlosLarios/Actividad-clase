@@ -1,1 +1,7 @@
 Este es el archivo de prueba
+
+
+Aqui genere un comentario
+Actividad: Conociendo git y GitHub. 
+Luis Larios A00826904
+Jesus Rodriguez A01283717
